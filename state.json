@@ -1,1 +1,80 @@
-{}
+{
+  "ashby:cohere:36d1f52f-8270-4652-adf5-5303a0ff341b": {
+    "company": "Cohere",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Machine Learning Intern/Co-op  (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b"
+  },
+  "ashby:cohere:73bd3e2b-6597-4124-b64b-1e5dbc32e785": {
+    "company": "Cohere",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Research Internship (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785"
+  },
+  "ashby:cohere:8c035d3d-081d-4c8a-914a-72f4efaad254": {
+    "company": "Cohere",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254"
+  },
+  "ashby:perplexity:71168628-1998-47d3-87a9-be7bc56a430d": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Internship - Search Machine Learning Engineer",
+    "url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d"
+  },
+  "ashby:perplexity:9246cf02-26fd-4ae8-90c5-639c6e85e9e2": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Internship - Search Machine Learning Engineer",
+    "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
+  },
+  "ashby:perplexity:b9e1ff15-d52a-46d5-abf0-26460f2a116c": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Internship - Machine Learning Research Engineer",
+    "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c"
+  },
+  "ashby:perplexity:be94e89b-89d5-4f2a-a58b-7929c8d97f92": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Internship - Search Backend Infra Engineer",
+    "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92"
+  },
+  "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4": {
+    "company": "Sierra",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Software Engineer Intern, Agent (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4"
+  },
+  "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e": {
+    "company": "Sierra",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Software Engineer Intern, Agent (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"
+  },
+  "ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17": {
+    "company": "Sierra",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Software Engineer Intern, Agent (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"
+  },
+  "greenhouse:databricks:7011263002": {
+    "company": "Databricks",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "PhD GenAI Research Scientist Intern",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
+  },
+  "greenhouse:databricks:8732364002": {
+    "company": "Databricks",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Software Engineering Intern (2027 Start) - Winter",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+  },
+  "greenhouse:scaleai:4730845005": {
+    "company": "Scale AI",
+    "first_seen": "2026-09-10T22:31:33.373038+00:00",
+    "title": "Software Engineering Intern (Summer 2027) ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+  }
+}
