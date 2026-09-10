@@ -1,0 +1,36 @@
+{
+  "_comment": "ats: greenhouse | lever | ashby. slug is the board identifier. Verified live 2026-09-10.",
+  "companies": [
+    { "name": "Anthropic",            "ats": "greenhouse", "slug": "anthropic" },
+    { "name": "OpenAI",               "ats": "ashby",      "slug": "openai" },
+    { "name": "xAI",                  "ats": "greenhouse", "slug": "xai" },
+    { "name": "Thinking Machines Lab","ats": "ashby",      "slug": "thinkingmachines" },
+    { "name": "Safe Superintelligence","ats": "ashby",     "slug": "ssi" },
+    { "name": "Cohere",               "ats": "ashby",      "slug": "cohere" },
+    { "name": "Perplexity",           "ats": "ashby",      "slug": "perplexity" },
+    { "name": "Scale AI",             "ats": "greenhouse", "slug": "scaleai" },
+    { "name": "Databricks",           "ats": "greenhouse", "slug": "databricks" },
+    { "name": "Together AI",          "ats": "greenhouse", "slug": "togetherai" },
+    { "name": "Fireworks AI",         "ats": "ashby",      "slug": "fireworks" },
+    { "name": "ElevenLabs",           "ats": "ashby",      "slug": "elevenlabs" },
+    { "name": "Runway",               "ats": "ashby",      "slug": "runway" },
+    { "name": "Sierra",               "ats": "ashby",      "slug": "sierra" },
+    { "name": "Cursor (Anysphere)",   "ats": "ashby",      "slug": "cursor" },
+    { "name": "Harvey",               "ats": "ashby",      "slug": "harvey" },
+    { "name": "Imbue",                "ats": "greenhouse", "slug": "imbue" },
+    { "name": "World Labs",           "ats": "ashby",      "slug": "worldlabs" },
+    { "name": "Luma AI",              "ats": "ashby",      "slug": "lumaai" },
+    { "name": "Figure AI",            "ats": "greenhouse", "slug": "figureai" },
+    { "name": "Decagon",              "ats": "ashby",      "slug": "decagon" }
+  ],
+  "_unresolved": [
+    "Google DeepMind (custom board)",
+    "Meta / FAIR (custom board)",
+    "Mistral AI (custom board - lever/mistral returns empty)",
+    "Hugging Face (custom board)",
+    "Contextual AI (slug unknown)",
+    "Sakana AI (slug unknown)",
+    "Physical Intelligence (slug unknown)",
+    "Skild AI (slug unknown)"
+  ]
+}

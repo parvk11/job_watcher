@@ -1,0 +1,93 @@
+[
+  {
+    "key": "ashby:cohere:8c035d3d-081d-4c8a-914a-72f4efaad254",
+    "company": "Cohere",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "location": "Canada",
+    "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254"
+  },
+  {
+    "key": "ashby:cohere:73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+    "company": "Cohere",
+    "title": "Research Internship (Winter 2027)",
+    "location": "Canada",
+    "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785"
+  },
+  {
+    "key": "ashby:cohere:36d1f52f-8270-4652-adf5-5303a0ff341b",
+    "company": "Cohere",
+    "title": "Machine Learning Intern/Co-op  (Winter 2027)",
+    "location": "Canada",
+    "url": "https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b"
+  },
+  {
+    "key": "ashby:perplexity:9246cf02-26fd-4ae8-90c5-639c6e85e9e2",
+    "company": "Perplexity",
+    "title": "Internship - Search Machine Learning Engineer",
+    "location": "Belgrade",
+    "url": "https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2"
+  },
+  {
+    "key": "ashby:perplexity:b9e1ff15-d52a-46d5-abf0-26460f2a116c",
+    "company": "Perplexity",
+    "title": "Internship - Machine Learning Research Engineer",
+    "location": "Berlin",
+    "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c"
+  },
+  {
+    "key": "ashby:perplexity:be94e89b-89d5-4f2a-a58b-7929c8d97f92",
+    "company": "Perplexity",
+    "title": "Internship - Search Backend Infra Engineer",
+    "location": "Belgrade",
+    "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92"
+  },
+  {
+    "key": "ashby:perplexity:71168628-1998-47d3-87a9-be7bc56a430d",
+    "company": "Perplexity",
+    "title": "Internship - Search Machine Learning Engineer",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d"
+  },
+  {
+    "key": "greenhouse:scaleai:4730845005",
+    "company": "Scale AI",
+    "title": "Software Engineering Intern (Summer 2027) ",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+  },
+  {
+    "key": "greenhouse:databricks:7011263002",
+    "company": "Databricks",
+    "title": "PhD GenAI Research Scientist Intern",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
+  },
+  {
+    "key": "greenhouse:databricks:8732364002",
+    "company": "Databricks",
+    "title": "Software Engineering Intern (2027 Start) - Winter",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+  },
+  {
+    "key": "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e",
+    "company": "Sierra",
+    "title": "Software Engineer Intern, Agent (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"
+  },
+  {
+    "key": "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4",
+    "company": "Sierra",
+    "title": "Software Engineer Intern, Agent (Winter 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4"
+  },
+  {
+    "key": "ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
+    "company": "Sierra",
+    "title": "Software Engineer Intern, Agent (Summer 2027)",
+    "location": "Singapore",
+    "url": "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"
+  }
+]
