@@ -216,6 +216,17 @@ def main() -> int:
                 }
             )
 
+    # Safety: if a large fraction of boards failed, this run has no reliable
+    # signal. Don't touch state (pruning would wipe it and cause a re-alert
+    # storm next run) and exit non-zero so the scheduler surfaces it.
+    if companies and len(errors) >= max(3, len(companies) // 2):
+        NEW_JOBS_PATH.write_text("[]")
+        (HERE / "new_jobs.md").write_text("")
+        print(f"[{now}] ABORT: {len(errors)}/{len(companies)} board fetches failed")
+        for e in errors:
+            print(f"    ! {e}")
+        return 1
+
     # diff against state
     new_jobs = []
     for m in all_matches:
@@ -237,6 +248,17 @@ def main() -> int:
 
     STATE_PATH.write_text(json.dumps(state, indent=2, sort_keys=True))
     NEW_JOBS_PATH.write_text(json.dumps(new_jobs, indent=2))
+
+    # markdown block for notifications / GitHub issues
+    if new_jobs:
+        md = [f"**{len(new_jobs)} new MLE/RE internship(s)**", ""]
+        for m in new_jobs:
+            loc = f" — {m['location']}" if m.get("location") else ""
+            md.append(f"- **{m['company']}**: {m['title']}{loc}")
+            md.append(f"  {m['url']}")
+        (HERE / "new_jobs.md").write_text("\n".join(md) + "\n")
+    else:
+        (HERE / "new_jobs.md").write_text("")
 
     # summary
     print(f"[{now}] checked {len(companies)} companies")

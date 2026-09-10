@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 new_jobs.json
+new_jobs.md
+run.log
