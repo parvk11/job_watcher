@@ -17,6 +17,24 @@
     "title": "Software Engineer Intern (Winter 2027)",
     "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254"
   },
+  "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a": {
+    "company": "Modal Labs",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "ML Research Intern",
+    "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"
+  },
+  "ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
+    "company": "Notion",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
+  },
+  "ashby:notion:e66c6658-9e65-4c58-8db2-844628b6e8f8": {
+    "company": "Notion",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
+  },
   "ashby:perplexity:71168628-1998-47d3-87a9-be7bc56a430d": {
     "company": "Perplexity",
     "first_seen": "2026-09-10T22:31:33.373038+00:00",
@@ -41,6 +59,18 @@
     "title": "Internship - Search Backend Infra Engineer",
     "url": "https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92"
   },
+  "ashby:physicalintelligence:f020ff1a-4b4c-4415-8434-2da5010a7076": {
+    "company": "Physical Intelligence",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "Research Internships",
+    "url": "https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076"
+  },
+  "ashby:pika:e135acb1-2a0b-47b4-81b2-3cb0f787657a": {
+    "company": "Pika",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "Research Intern (BS/MS/PhD)",
+    "url": "https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a"
+  },
   "ashby:sierra:02e1c456-8489-4a74-9fe7-af8845b040e4": {
     "company": "Sierra",
     "first_seen": "2026-09-10T22:31:33.373038+00:00",
@@ -59,6 +89,30 @@
     "title": "Software Engineer Intern, Agent (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"
   },
+  "greenhouse:cresta:4123841008": {
+    "company": "Cresta",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/4123841008"
+  },
+  "greenhouse:cresta:4123863008": {
+    "company": "Cresta",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "Machine Learning Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/4123863008"
+  },
+  "greenhouse:cresta:5047247008": {
+    "company": "Cresta",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "AI Quality Assurance Intern",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/5047247008"
+  },
+  "greenhouse:cresta:5106468008": {
+    "company": "Cresta",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "Forward Deployed Engineering Intern (AI Agent)",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/5106468008"
+  },
   "greenhouse:databricks:7011263002": {
     "company": "Databricks",
     "first_seen": "2026-09-10T22:31:33.373038+00:00",
@@ -76,5 +130,17 @@
     "first_seen": "2026-09-10T22:31:33.373038+00:00",
     "title": "Software Engineering Intern (Summer 2027) ",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+  },
+  "lever:waabi:0fd4e30b-9bd1-4b53-9043-6088457363cb": {
+    "company": "Waabi",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "Research Internship/Co-op",
+    "url": "https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb"
+  },
+  "lever:waabi:62700386-b9db-4c78-aec3-5ef59cbe841e": {
+    "company": "Waabi",
+    "first_seen": "2026-09-11T04:49:43.391756+00:00",
+    "title": "2026 Intern, PhD Research Scientist",
+    "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e"
   }
 }
