@@ -29,6 +29,24 @@
     "title": "Core Engineering Intern",
     "url": "https://jobs.ashbyhq.com/etched/494546ec-de37-46a2-b450-692c23b7b0c8"
   },
+  "ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
+    "company": "Harvey",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d"
+  },
+  "ashby:harvey:3a34578d-d42e-45bb-ac5c-0c3357e8cbb7": {
+    "company": "Harvey",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7"
+  },
+  "ashby:harvey:d40e15aa-2351-4be8-ac8f-1faf60bfcdbf": {
+    "company": "Harvey",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Software Engineering Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf"
+  },
   "ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a": {
     "company": "Modal Labs",
     "first_seen": "2026-09-11T04:49:43.391756+00:00",
@@ -143,17 +161,47 @@
     "title": "Forward Deployed Engineering Intern (AI Agent)",
     "url": "https://job-boards.greenhouse.io/cresta/jobs/5106468008"
   },
+  "greenhouse:databricks:6866531002": {
+    "company": "Databricks",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Software Engineering Intern (2027 Start) - Berlin",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002"
+  },
+  "greenhouse:databricks:6866534002": {
+    "company": "Databricks",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002"
+  },
   "greenhouse:databricks:7011263002": {
     "company": "Databricks",
     "first_seen": "2026-09-10T22:31:33.373038+00:00",
     "title": "PhD GenAI Research Scientist Intern",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002"
   },
+  "greenhouse:databricks:7640764002": {
+    "company": "Databricks",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Software Engineering Intern (2027 Start) - Belgrade",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002"
+  },
+  "greenhouse:databricks:8133710002": {
+    "company": "Databricks",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Software Engineering Intern (2027 Start) - Aarhus",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002"
+  },
   "greenhouse:databricks:8732364002": {
     "company": "Databricks",
     "first_seen": "2026-09-10T22:31:33.373038+00:00",
     "title": "Software Engineering Intern (2027 Start) - Winter",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+  },
+  "greenhouse:databricks:8847738002": {
+    "company": "Databricks",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Software Engineering Intern (2027 Start) - London",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
   },
   "greenhouse:gleanwork:4595665005": {
     "company": "Glean",
@@ -238,6 +286,18 @@
     "first_seen": "2026-09-18T20:59:03.331755+00:00",
     "title": "Research Intern, Frontier Agents (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238468007"
+  },
+  "greenhouse:xai:5252108007": {
+    "company": "xAI",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Spring 2027 Software Engineering Internship/Co-op",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5252108007"
+  },
+  "greenhouse:xai:5255111007": {
+    "company": "xAI",
+    "first_seen": "2026-10-02T19:24:24.972576+00:00",
+    "title": "Summer 2027 Software Engineering Internship/Co-op",
+    "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007"
   },
   "lever:waabi:0fd4e30b-9bd1-4b53-9043-6088457363cb": {
     "company": "Waabi",
