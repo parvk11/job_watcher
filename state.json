@@ -167,6 +167,12 @@
     "title": "Forward Deployed Engineering Intern (AI Agent)",
     "url": "https://job-boards.greenhouse.io/cresta/jobs/5106468008"
   },
+  "greenhouse:databricks:6865687002": {
+    "company": "Databricks",
+    "first_seen": "2026-10-12T23:03:27.750678+00:00",
+    "title": "Software Engineering Intern (2027)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
+  },
   "greenhouse:databricks:6866531002": {
     "company": "Databricks",
     "first_seen": "2026-10-02T19:24:24.972576+00:00",
@@ -215,11 +221,11 @@
     "title": "Validation Engineering Intern [Winter 2027]",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4606072006"
   },
-  "greenhouse:figureai:4719593006": {
+  "greenhouse:figureai:4721113006": {
     "company": "Figure AI",
-    "first_seen": "2026-10-07T01:38:28.124676+00:00",
-    "title": "Security Engineer Intern [Winter 2027]",
-    "url": "https://job-boards.greenhouse.io/figureai/jobs/4719593006"
+    "first_seen": "2026-10-12T23:03:27.750678+00:00",
+    "title": "Deployment Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006"
   },
   "greenhouse:gleanwork:4595665005": {
     "company": "Glean",
