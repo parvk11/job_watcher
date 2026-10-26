@@ -221,11 +221,11 @@
     "title": "Embedded Software Engineering Intern, Platform",
     "url": "https://job-boards.greenhouse.io/figureai/jobs/4722086006"
   },
-  "greenhouse:gleanwork:4595665005": {
+  "greenhouse:gleanwork:4747670005": {
     "company": "Glean",
-    "first_seen": "2026-10-01T22:46:20.300583+00:00",
+    "first_seen": "2026-10-26T21:04:31.837270+00:00",
     "title": "Software Engineer, Intern (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005"
   },
   "greenhouse:scaleai:4730834005": {
     "company": "Scale AI",
@@ -322,5 +322,17 @@
     "first_seen": "2026-10-02T19:24:24.972576+00:00",
     "title": "Summer 2027 Software Engineering Internship/Co-op",
     "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007"
+  },
+  "lever:waabi:0fd4e30b-9bd1-4b53-9043-6088457363cb": {
+    "company": "Waabi",
+    "first_seen": "2026-10-26T21:04:31.837270+00:00",
+    "title": "Research Internship/Co-op",
+    "url": "https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb"
+  },
+  "lever:waabi:62700386-b9db-4c78-aec3-5ef59cbe841e": {
+    "company": "Waabi",
+    "first_seen": "2026-10-26T21:04:31.837270+00:00",
+    "title": "2027 Intern, PhD Research Scientist",
+    "url": "https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e"
   }
 }
