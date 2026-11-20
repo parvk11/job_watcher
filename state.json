@@ -23,6 +23,12 @@
     "title": "IA Research Engineer (Kernels) Intern ",
     "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440"
   },
+  "ashby:etched:1a92048c-60e0-445b-a84e-8f008f1cf47b": {
+    "company": "Etched",
+    "first_seen": "2026-11-20T13:09:37.259425+00:00",
+    "title": "Infrastructure Engineering & Projects Intern",
+    "url": "https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b"
+  },
   "ashby:etched:494546ec-de37-46a2-b450-692c23b7b0c8": {
     "company": "Etched",
     "first_seen": "2026-10-29T05:59:06.937881+00:00",
@@ -35,6 +41,12 @@
     "title": "ML Research Intern",
     "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"
   },
+  "ashby:notion:27090d0f-07d3-419b-adaa-837b5e22f947": {
+    "company": "Notion",
+    "first_seen": "2026-11-20T13:09:37.259425+00:00",
+    "title": "Software Engineering Intern, iOS (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947"
+  },
   "ashby:notion:2b587e66-deac-421a-a824-9415ba78b5a7": {
     "company": "Notion",
     "first_seen": "2026-09-24T21:35:52.459614+00:00",
@@ -46,6 +58,12 @@
     "first_seen": "2026-09-11T04:49:43.391756+00:00",
     "title": "Software Engineer Intern (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
+  },
+  "ashby:notion:43ffba97-b64a-4c6a-ac13-c803253c9413": {
+    "company": "Notion",
+    "first_seen": "2026-11-20T13:09:37.259425+00:00",
+    "title": "Software Engineering Intern, Frontend (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413"
   },
   "ashby:periodic-labs:2cfb099d-42f1-4dff-93f4-1862b13f914a": {
     "company": "Periodic Labs",
@@ -70,12 +88,6 @@
     "first_seen": "2026-09-22T17:02:59.253250+00:00",
     "title": "Perplexity Research Fellowship",
     "url": "https://jobs.ashbyhq.com/perplexity/ab076e26-adf1-414f-a006-7b1bdc9247c8"
-  },
-  "ashby:perplexity:b9e1ff15-d52a-46d5-abf0-26460f2a116c": {
-    "company": "Perplexity",
-    "first_seen": "2026-09-10T22:31:33.373038+00:00",
-    "title": "Internship - Machine Learning Research Engineer",
-    "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c"
   },
   "ashby:perplexity:be94e89b-89d5-4f2a-a58b-7929c8d97f92": {
     "company": "Perplexity",
@@ -232,66 +244,6 @@
     "first_seen": "2026-10-19T19:59:41.856244+00:00",
     "title": "Machine Learning Research Intern (Summer 2027)",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005"
-  },
-  "greenhouse:togetherai:5238411007": {
-    "company": "Together AI",
-    "first_seen": "2026-09-18T17:43:17.005181+00:00",
-    "title": "Systems Research Engineer Intern - GPU Programming (Winter 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238411007"
-  },
-  "greenhouse:togetherai:5238460007": {
-    "company": "Together AI",
-    "first_seen": "2026-09-18T17:43:17.005181+00:00",
-    "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007"
-  },
-  "greenhouse:togetherai:5238461007": {
-    "company": "Together AI",
-    "first_seen": "2026-09-18T17:43:17.005181+00:00",
-    "title": "Research Intern, Inference (Winter 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238461007"
-  },
-  "greenhouse:togetherai:5238462007": {
-    "company": "Together AI",
-    "first_seen": "2026-09-18T17:43:17.005181+00:00",
-    "title": "Research Intern, Inference (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238462007"
-  },
-  "greenhouse:togetherai:5238465007": {
-    "company": "Together AI",
-    "first_seen": "2026-09-18T17:43:17.005181+00:00",
-    "title": "Research Intern, Model Shaping (Winter 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007"
-  },
-  "greenhouse:togetherai:5238466007": {
-    "company": "Together AI",
-    "first_seen": "2026-09-18T17:43:17.005181+00:00",
-    "title": "Research Intern, Model Shaping (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007"
-  },
-  "greenhouse:togetherai:5238467007": {
-    "company": "Together AI",
-    "first_seen": "2026-09-18T17:43:17.005181+00:00",
-    "title": "Research Intern, Frontier Agents (Winter 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238467007"
-  },
-  "greenhouse:togetherai:5238468007": {
-    "company": "Together AI",
-    "first_seen": "2026-09-18T20:59:03.331755+00:00",
-    "title": "Research Intern, Frontier Agents (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238468007"
-  },
-  "greenhouse:togetherai:5267197007": {
-    "company": "Together AI",
-    "first_seen": "2026-10-17T00:34:26.183267+00:00",
-    "title": "Research Intern, Frontier Speculative Decoding (Winter 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007"
-  },
-  "greenhouse:togetherai:5267198007": {
-    "company": "Together AI",
-    "first_seen": "2026-10-17T00:34:26.183267+00:00",
-    "title": "Research Intern, Frontier Speculative Decoding (Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007"
   },
   "greenhouse:xai:5252108007": {
     "company": "xAI",
